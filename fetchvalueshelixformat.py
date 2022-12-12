@@ -1,9 +1,9 @@
 mat = [[1, 2, 3, 4],
        [5, 6, 7, 8],
        [9, 10, 11, 12],
-       [13, 14, 15, 16]]  //matrix can be 3*3 or 4*4
+       [13, 14, 15, 16]]  # matrix can be 3*3 or 4*4
 
-n = 4  // no of rows and columns
+n = 4  # no of rows and columns
 start, end = 0, n
 inc = 1
 k = n - 1
