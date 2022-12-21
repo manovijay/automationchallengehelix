@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "id": "101",
+      "value": "File",
+      "statecode": "TN"
+    },
+    {
+      "id": "102",
+      "value": "File",
+      "statecode": "MH"
+    },
+    {
+      "id": "103",
+      "value": "File",
+      "statecode": "TN"
+    }
+  ]
+}
